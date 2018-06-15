@@ -1,0 +1,12 @@
+{
+    "name": "vclongbangvclongbang/jason/vclongbang",
+    "description": "龙邦的ccshop扩展包",
+    "keywords": ["西安","龙邦","ccshop扩展包"],
+    "license": "MIT",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "name":"VC_LongBang_ccshop",
+        "email":"antietie@qq.com"
+    }
+}
